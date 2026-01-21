@@ -11,7 +11,7 @@ WHAT (Walker Harold Agency Test) is an interactive decision-making game where ev
 2. Note: That the latest python version sometimes don't have access to downloading pygame, so please downgrade it to the earlier versions before the current version.
 3. Check if you have installed pip (if there is type "pip --version")
 4. Type "python -m pip install pygame".
-5. If there are multiple errors or problems in the terminal click this YouTube guiding you to download pygame - [here](https://www.youtube.com/watch?v=5uOTEOJ48G8)
+5. If there are multiple errors or problems in the terminal click this YouTube guiding you to download pygame - [How to Install Pygame](https://www.youtube.com/watch?v=5uOTEOJ48G8)
 
 Note: The game cannot play if there is no pygame installed.
 
@@ -22,3 +22,5 @@ Note: The game cannot play if there is no pygame installed.
 4. There is no exit while playing the game.
 5. Enjoy!
 
+Important note:
+Some files(images, audio, etc.) are needed for the game to run properly. Thanks.
