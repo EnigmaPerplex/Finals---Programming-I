@@ -2,6 +2,8 @@
 WHAT (Walker Harold Agency Test) is an interactive decision-making game where every choice and decision leads to different sets of strange questions. You play as test subject #6, being questioned by authorities of this agency. 
 
 # Requirements
+- python version 3.13.11
+- pip version 25.3
 - pygame
 
 # How to access/install pygame:
